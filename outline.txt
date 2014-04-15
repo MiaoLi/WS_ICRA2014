@@ -1,0 +1,32 @@
+Authors: Kaiyu Hang, Miao Li, Johannes A. Stork, Yasemin Bekiroglu, Aude Billard, Danica Kragic
+
+
+Abstract (1/3 column) (KTH)
+
+
+1. Introduction + frame work figure (1st page)
+
+	-- The necessity of fingertip grasping (KTH)
+	-- The difficulty of fingertip grasping (KTH)
+	-- Directly process on point cloud (KTH)
+	-- Hierarchical representation (with figure) (KTH)
+	-- Local adaptation (EPFL)
+	-- Summarize Framework (KTH)
+
+
+2. Methodology
+
+2.1 Fingertip Sapce (KTH) + GP Hierarchical Representation (EPFL)
+
+-- Fomulation
+-- Formular
+
+2.2 Adaptability (EPFL)
+
+2.3 Optimization (KTH)
+
+	-- Rechability (Soft Constraint)
+	-- Objective
+	-- 2.2
+
+3. Future Work (KTH + EPFL)
